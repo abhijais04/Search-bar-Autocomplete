@@ -29,7 +29,7 @@ The database used here is a csv file which contains names of people. The app loa
 
 - Go to the app folder and run following command:
 ```
-		python app.py
+	python app.py
 ```
 - Open any browser and go to `127.0.0.1/home` . You should see an html page with a search bar.
 - Type at-least 3 letters to get results.
