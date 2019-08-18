@@ -15,21 +15,21 @@ The database used here is a csv file which contains names of people. The app loa
 ### Install
 - Python
  ```
-	sudo apt-get install python
+sudo apt-get install python
 ```
 - Pip
 ```
-	sudo apt-get install python-pip
+sudo apt-get install python-pip
 ```
 - Flask
 ```
-	pip install flask
+pip install flask
 ```
 ### Usage
 
 - Go to the app folder and run following command:
 ```
-	python app.py
+python app.py
 ```
 - Open any browser and go to `127.0.0.1/home` . You should see an html page with a search bar.
 - Type at-least 3 letters to get results.
