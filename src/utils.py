@@ -6,7 +6,7 @@ full_name_root = trie.Node()
 middle_name_root = trie.Node()
 last_name_root = trie.Node()
 
-with open('test_data_sample.csv', 'r') as csvFile:
+with open('../data/test_data_sample.csv', 'r') as csvFile:
     reader = csv.reader(csvFile)
     counter=0
     for w in reader:
